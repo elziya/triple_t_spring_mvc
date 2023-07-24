@@ -25,4 +25,4 @@
 * BootStrap
 * JSP
 * JSTL
-* Lombock
+* Lombok
